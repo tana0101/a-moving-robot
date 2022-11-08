@@ -1,0 +1,36 @@
+﻿  robot.cpp
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(38,9): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(56,34): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(132,63): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(133,41): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(151,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(159,30): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(168,30): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(176,30): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(206,20): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(207,20): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(207,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(207,14): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(226,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(226,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(235,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(235,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(241,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(241,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(257,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(257,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(291,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(291,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(296,32): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(302,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(394,24): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(605,13): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(610,19): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(625,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(626,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(646,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(647,25): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(749,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(757,21): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\robot.cpp(771,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  Project2.vcxproj -> D:\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\x64\Debug\Project2.exe

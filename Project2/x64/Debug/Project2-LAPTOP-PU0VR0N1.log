@@ -1,0 +1,32 @@
+﻿  car.cpp
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(33,33): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(105,45): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(106,35): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(124,26): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(132,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(141,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(149,28): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(179,19): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(180,20): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(180,17): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(180,14): warning C4244: '引數': 將 'double' 轉換為 'GLfloat'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(198,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(198,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(204,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(204,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(208,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(208,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(222,32): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(222,26): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(258,28): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(258,23): warning C4244: '引數': 將 'double' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(263,32): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(269,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(361,24): warning C4244: '-=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(409,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(410,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(425,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(426,27): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\car.cpp(483,1): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  LINK : 最後的累加連結找不到或未建置 C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\x64\Debug\Project2.exe，正在執行完整連結
+  Project2.vcxproj -> C:\Users\USER\OneDrive - 國立台灣海洋大學\College\大三\graph\Project2\x64\Debug\Project2.exe
